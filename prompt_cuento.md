@@ -47,7 +47,7 @@ Cuando Ruedín, Chispa y Tornix llegaron, TrastyTrampi les ofreció las latas de
 #respuesta:
 La imagen generada es de una fiesta de personas
 
-- prompt "Crea un ilustración para el cuento donde se vea a TrastyTrampi superando el charco y a sus amigos atascados en el barro."
+- prompt: "Crea un ilustración para el cuento donde se vea a TrastyTrampi superando el charco y a sus amigos atascados en el barro."
 
 #respuesta:
 La imagen generada no tiene nad que ver con el cuento, un niño encima de la cabeza de una estatua, Copi ha perdido el contexto del cuento, hay que recordárselo.
@@ -59,4 +59,30 @@ La imagen generada no tiene nad que ver con el cuento, un niño encima de la cab
 Voy a trabajar en ello. Un momento, por favor. 
 
 No es capaz de generar una imagen.
+
+- prompt: "Copi no me has generado la imagen anterior, por favor vuelve a intentarlo."
+
+#respuesta:
+Genera una imagen correcta.
+
+- prompt: "Muy bien Copi, ahora crea otra imagen para ilustrar el final del cuento donde se vea a TrastyTrampi y sus amigos llenos de barro riendose y disfrutando del delicioso aceite."
+  
+#respuesta:
+Los robots son de piedra y son diferentes.
+
+- prompt: "Copi, TrastyTrampi debe de ser el mismo robot que en la imagen que generaste donde estaba en el charco de barro y sus amigos deben salir manchados de barro riendose y disfrutando del delicioso aceite."
+
+#respuesta:
+La imagen generda son robots humanoides tipo "Yo robot".
+
+- prompt: "Copi, ¿recuerdas la imagen que me has creado antes "TrastyTrampi, un robot con ruedas de oruga, superando un charco de barro mientras sus amigos robots están atascados en el barro"?"
+
+#respuesta:
+Sí, recuerdo la imagen que generé de TrastyTrampi superando el charco de barro mientras sus amigos robots estaban atascados. Ahora, voy a crear una nueva ilustración que muestre a TrastyTrampi y sus amigos llenos de barro, riéndose y disfrutando del delicioso aceite. Un momento, por favor. 
+
+- prompt: "Tienes que generar una imagen con los mismos robots para ilustrar el final del cuento, donde deben aparecer manchados de barro, riendo y bebiendo aceite."
+
+#respuesta:
+Voy a intentarlo de nuevo. Un momento, por favor. 😊
+Alerta de que el contenido viola el código de conducta de Designer.
 
