@@ -1,0 +1,16 @@
+Metadatos: IA=Copilot (GPT-4) prompt por defecto 04/02/2025.
+prompt: "Hola Copi, necesito que me yudes a escribir un cuento. El cuento trata sobre un pequeño y simpático robot de aspecto gracioso con ruedas de oruga que se llama TrastyTrampi."
+respuesta:
+TrastyTrampi y la Gran Aventura
+En un pequeño taller al borde de la ciudad, vivía un robot llamado TrastyTrampi. TrastyTrampi no era un robot común y corriente; tenía ruedas de oruga que le permitían moverse con agilidad por cualquier terreno, y su aspecto gracioso siempre sacaba una sonrisa a quienes lo veían.
+Un día, mientras exploraba el taller, TrastyTrampi encontró un mapa antiguo escondido en una caja de herramientas. El mapa mostraba el camino hacia un tesoro perdido en el Bosque de los Susurros. Con su curiosidad y valentía, TrastyTrampi decidió embarcarse en una gran aventura para encontrar el tesoro.
+
+prompt: "Modifica el cuento para que el robot decida hacer una carrera con sus amigos robots para encontrar el tesoro que indica el mapa. Cada uno de los robots construirá un vehículo distinto para intentar ser el más rápido y llegar el primero al tesoro. El vehículo de TrastyTrampi es parecido a una bicicleta, pero como no tiene piernas los pedales están en el manillar y los hace girar con los brazos para avanzar y desplazarse rápidamente."
+respuesta:
+TrastyTrampi y la Gran Carrera
+En un pequeño taller al borde de la ciudad, vivía un robot llamado TrastyTrampi. TrastyTrampi no era un robot común y corriente; tenía ruedas de oruga que le permitían moverse con agilidad por cualquier terreno, y su aspecto gracioso siempre sacaba una sonrisa a quienes lo veían.
+Un día, mientras exploraba el taller, TrastyTrampi encontró un mapa antiguo escondido en una caja de herramientas. El mapa mostraba el camino hacia un tesoro perdido en el Bosque de los Susurros. Emocionado, TrastyTrampi decidió compartir el descubrimiento con sus amigos robots: Ruedín, Chispa y Tornix.
+"¡Hagamos una carrera para encontrar el tesoro!", propuso TrastyTrampi. Todos estuvieron de acuerdo y comenzaron a construir sus vehículos para la gran aventura. Ruedín construyó un coche rápido y aerodinámico, Chispa diseñó un hoverboard flotante, y Tornix creó una moto con propulsores.
+TrastyTrampi, por su parte, construyó un vehículo parecido a una bicicleta. Como no tenía piernas, colocó los pedales en el manillar y los hacía girar con los brazos para avanzar y desplazarse rápidamente.
+El día de la carrera, los cuatro amigos se alinearon en la línea de salida, listos para comenzar. "¡En sus marcas, listos, fuera!", gritó TrastyTrampi, y todos salieron disparados hacia el Bosque de los Susurros, cada uno con la esperanza de ser el primero en encontrar el tesoro.
+
