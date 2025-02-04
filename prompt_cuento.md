@@ -55,5 +55,8 @@ La imagen generada no tiene nad que ver con el cuento, un niño encima de la cab
 - prompt "Copi recuerda el cuento, TrastyTrampi es un robot y tiene unas carcterísticas determinadas."
   
 #respuesta:
+¡Entendido! Vamos a crear una ilustración que muestre a TrastyTrampi superando el charco de barro con sus ruedas de oruga, mientras sus amigos robots están atascados en el barro.
+Voy a trabajar en ello. Un momento, por favor. 
+
 No es capaz de generar una imagen.
 
