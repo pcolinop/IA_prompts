@@ -265,4 +265,5 @@ Muestrame los enlaces url anteriores como texto para copiar y pegar.
 
 Espero que esto te sea útil. ¿Hay algo más en lo que pueda asistirte?
 
-
+- Nota: Se pueden también obtener los puntos pasando ltitud y longitud de la siguiente forma:
+  https://www.openstreetmap.org/?mlat=40.412957&mlon=-3.698251
